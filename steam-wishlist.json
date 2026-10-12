@@ -1,3 +1,104 @@
 {
-  "games": []
+  "schema_version": 1,
+  "updated_at": "2026-10-12T21:43:08Z",
+  "steam_id": "76561198025751792",
+  "game_count": 9,
+  "games": [
+    {
+      "appid": 311810,
+      "title": "Operation: Black Mesa",
+      "url": "https://store.steampowered.com/app/311810/",
+      "date_added": "2022-02-10T00:53:04Z"
+    },
+    {
+      "appid": 588030,
+      "title": "Derail Valley",
+      "url": "https://store.steampowered.com/app/588030/",
+      "date_added": "2026-09-26T14:28:36Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 3999,
+        "formatted": "$39.99"
+      }
+    },
+    {
+      "appid": 754150,
+      "title": "Rolling Line",
+      "url": "https://store.steampowered.com/app/754150/",
+      "date_added": "2026-09-26T14:23:38Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 2499,
+        "formatted": "$24.99"
+      }
+    },
+    {
+      "appid": 1245620,
+      "title": "ELDEN RING",
+      "url": "https://store.steampowered.com/app/1245620/",
+      "date_added": "2026-09-10T21:02:27Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
+      }
+    },
+    {
+      "appid": 1285190,
+      "title": "Borderlands 4",
+      "url": "https://store.steampowered.com/app/1285190/",
+      "date_added": "2026-01-28T20:09:04Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 6999,
+        "formatted": "$69.99"
+      }
+    },
+    {
+      "appid": 1631270,
+      "title": "StarRupture",
+      "url": "https://store.steampowered.com/app/1631270/",
+      "date_added": "2026-03-09T01:41:45Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 1599,
+        "formatted": "$15.99"
+      }
+    },
+    {
+      "appid": 2677660,
+      "title": "Indiana Jones and the Great Circle",
+      "url": "https://store.steampowered.com/app/2677660/",
+      "date_added": "2025-07-30T22:32:13Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 4199,
+        "formatted": "$41.99"
+      }
+    },
+    {
+      "appid": 3558670,
+      "title": "Tomb Raider: Legacy of Atlantis",
+      "url": "https://store.steampowered.com/app/3558670/",
+      "date_added": "2025-12-16T12:03:28Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
+      }
+    },
+    {
+      "appid": 3727390,
+      "title": "The Expanse: Osiris Reborn",
+      "url": "https://store.steampowered.com/app/3727390/",
+      "date_added": "2026-02-01T02:48:14Z"
+    }
+  ]
 }
