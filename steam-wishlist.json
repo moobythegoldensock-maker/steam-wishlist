@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:25:02Z",
+  "updated_at": "2026-11-03T12:05:32Z",
   "steam_id": "76561198025751792",
-  "game_count": 10,
+  "game_count": 11,
   "games": [
     {
       "appid": 311810,
@@ -90,8 +90,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 6999,
-        "formatted": "$69.99"
+        "final_minor_units": 3499,
+        "formatted": "$34.99"
       }
     },
     {
@@ -124,6 +124,22 @@
         "country": "US",
         "final_minor_units": 6999,
         "formatted": "$69.99"
+      }
+    },
+    {
+      "appid": 3419520,
+      "title": "Quarantine Zone: The Last Check",
+      "url": "https://store.steampowered.com/app/3419520/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-02T22:20:13Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 1999,
+        "formatted": "$19.99"
       }
     },
     {
