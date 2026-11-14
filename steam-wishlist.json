@@ -1,9 +1,25 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:20:52Z",
+  "updated_at": "2026-11-14T12:17:05Z",
   "steam_id": "76561198025751792",
-  "game_count": 12,
+  "game_count": 13,
   "games": [
+    {
+      "appid": 620,
+      "title": "Portal 2",
+      "url": "https://store.steampowered.com/app/620/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-13T13:44:31Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 999,
+        "formatted": "$9.99"
+      }
+    },
     {
       "appid": 218680,
       "title": "Scribblenauts Unlimited",
