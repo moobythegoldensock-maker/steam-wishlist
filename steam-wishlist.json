@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:17:05Z",
+  "updated_at": "2026-11-16T12:04:39Z",
   "steam_id": "76561198025751792",
-  "game_count": 13,
+  "game_count": 34,
   "games": [
     {
       "appid": 620,
@@ -37,6 +37,22 @@
       }
     },
     {
+      "appid": 307690,
+      "title": "Sleeping Dogs: Definitive Edition",
+      "url": "https://store.steampowered.com/app/307690/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:06:28Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 1999,
+        "formatted": "$19.99"
+      }
+    },
+    {
       "appid": 311810,
       "title": "Operation: Black Mesa",
       "url": "https://store.steampowered.com/app/311810/",
@@ -45,6 +61,70 @@
         "purchasable": false
       },
       "date_added": "2022-02-10T00:53:04Z"
+    },
+    {
+      "appid": 379430,
+      "title": "Kingdom Come: Deliverance",
+      "url": "https://store.steampowered.com/app/379430/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:51:43Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 2999,
+        "formatted": "$29.99"
+      }
+    },
+    {
+      "appid": 427410,
+      "title": "Abiotic Factor",
+      "url": "https://store.steampowered.com/app/427410/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:32:52Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 3499,
+        "formatted": "$34.99"
+      }
+    },
+    {
+      "appid": 460930,
+      "title": "Tom Clancy's Ghost Recon® Wildlands",
+      "url": "https://store.steampowered.com/app/460930/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:05:32Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 999,
+        "formatted": "$9.99"
+      }
+    },
+    {
+      "appid": 552520,
+      "title": "Far Cry® 5",
+      "url": "https://store.steampowered.com/app/552520/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:44:29Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
+      }
     },
     {
       "appid": 588030,
@@ -63,6 +143,22 @@
       }
     },
     {
+      "appid": 690640,
+      "title": "Trine 4: The Nightmare Prince",
+      "url": "https://store.steampowered.com/app/690640/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:11:44Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 2999,
+        "formatted": "$29.99"
+      }
+    },
+    {
       "appid": 754150,
       "title": "Rolling Line",
       "url": "https://store.steampowered.com/app/754150/",
@@ -76,6 +172,70 @@
         "country": "US",
         "final_minor_units": 2499,
         "formatted": "$24.99"
+      }
+    },
+    {
+      "appid": 892970,
+      "title": "Valheim",
+      "url": "https://store.steampowered.com/app/892970/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-15T20:53:06Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 2699,
+        "formatted": "$26.99"
+      }
+    },
+    {
+      "appid": 962130,
+      "title": "Grounded",
+      "url": "https://store.steampowered.com/app/962130/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:26:16Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 3999,
+        "formatted": "$39.99"
+      }
+    },
+    {
+      "appid": 1151640,
+      "title": "Horizon Zero Dawn™ Complete Edition",
+      "url": "https://store.steampowered.com/app/1151640/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:50:42Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 4999,
+        "formatted": "$49.99"
+      }
+    },
+    {
+      "appid": 1203620,
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:25:50Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 3999,
+        "formatted": "$39.99"
       }
     },
     {
@@ -111,6 +271,22 @@
       }
     },
     {
+      "appid": 1259420,
+      "title": "Days Gone",
+      "url": "https://store.steampowered.com/app/1259420/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:05:53Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 3999,
+        "formatted": "$39.99"
+      }
+    },
+    {
       "appid": 1285190,
       "title": "Borderlands 4",
       "url": "https://store.steampowered.com/app/1285190/",
@@ -124,6 +300,38 @@
         "country": "US",
         "final_minor_units": 3499,
         "formatted": "$34.99"
+      }
+    },
+    {
+      "appid": 1593500,
+      "title": "God of War",
+      "url": "https://store.steampowered.com/app/1593500/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:52:48Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 4999,
+        "formatted": "$49.99"
+      }
+    },
+    {
+      "appid": 1599660,
+      "title": "Sackboy™: A Big Adventure",
+      "url": "https://store.steampowered.com/app/1599660/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:12:01Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
       }
     },
     {
@@ -143,6 +351,102 @@
       }
     },
     {
+      "appid": 1659040,
+      "title": "HITMAN World of Assassination",
+      "url": "https://store.steampowered.com/app/1659040/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:06:08Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 2999,
+        "formatted": "$29.99"
+      }
+    },
+    {
+      "appid": 1771300,
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:51:59Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
+      }
+    },
+    {
+      "appid": 1812090,
+      "title": "Escape Academy",
+      "url": "https://store.steampowered.com/app/1812090/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:11:22Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 1999,
+        "formatted": "$19.99"
+      }
+    },
+    {
+      "appid": 1817070,
+      "title": "Marvel’s Spider-Man Remastered",
+      "url": "https://store.steampowered.com/app/1817070/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:52:21Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
+      }
+    },
+    {
+      "appid": 2369390,
+      "title": "Far Cry® 6",
+      "url": "https://store.steampowered.com/app/2369390/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:44:39Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
+      }
+    },
+    {
+      "appid": 2661300,
+      "title": "Grounded 2",
+      "url": "https://store.steampowered.com/app/2661300/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T01:26:30Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 2999,
+        "formatted": "$29.99"
+      }
+    },
+    {
       "appid": 2677660,
       "title": "Indiana Jones and the Great Circle",
       "url": "https://store.steampowered.com/app/2677660/",
@@ -156,6 +460,38 @@
         "country": "US",
         "final_minor_units": 6999,
         "formatted": "$69.99"
+      }
+    },
+    {
+      "appid": 2842040,
+      "title": "Star Wars Outlaws",
+      "url": "https://store.steampowered.com/app/2842040/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-16T00:53:19Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 6999,
+        "formatted": "$69.99"
+      }
+    },
+    {
+      "appid": 3041230,
+      "title": "Windrose",
+      "url": "https://store.steampowered.com/app/3041230/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-15T20:14:26Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 2999,
+        "formatted": "$29.99"
       }
     },
     {
