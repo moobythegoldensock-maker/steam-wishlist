@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T12:04:39Z",
+  "updated_at": "2026-11-17T12:22:14Z",
   "steam_id": "76561198025751792",
   "game_count": 34,
   "games": [
@@ -74,8 +74,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 2999,
-        "formatted": "$29.99"
+        "final_minor_units": 449,
+        "formatted": "$4.49"
       }
     },
     {
@@ -143,22 +143,6 @@
       }
     },
     {
-      "appid": 690640,
-      "title": "Trine 4: The Nightmare Prince",
-      "url": "https://store.steampowered.com/app/690640/",
-      "availability": {
-        "coming_soon": false,
-        "purchasable": true
-      },
-      "date_added": "2026-11-16T01:11:44Z",
-      "price": {
-        "currency": "USD",
-        "country": "US",
-        "final_minor_units": 2999,
-        "formatted": "$29.99"
-      }
-    },
-    {
       "appid": 754150,
       "title": "Rolling Line",
       "url": "https://store.steampowered.com/app/754150/",
@@ -186,8 +170,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 2699,
-        "formatted": "$26.99"
+        "final_minor_units": 2999,
+        "formatted": "$29.99"
       }
     },
     {
@@ -298,8 +282,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 3499,
-        "formatted": "$34.99"
+        "final_minor_units": 6999,
+        "formatted": "$69.99"
       }
     },
     {
@@ -378,8 +362,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 5999,
-        "formatted": "$59.99"
+        "final_minor_units": 1979,
+        "formatted": "$19.79"
       }
     },
     {
@@ -535,6 +519,22 @@
         "purchasable": false
       },
       "date_added": "2026-02-01T02:48:14Z"
+    },
+    {
+      "appid": 5335510,
+      "title": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-17T01:02:59Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 899,
+        "formatted": "$8.99"
+      }
     }
   ]
 }
