@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18T12:16:21Z",
+  "updated_at": "2026-11-19T12:29:17Z",
   "steam_id": "76561198025751792",
-  "game_count": 34,
+  "game_count": 35,
   "games": [
     {
       "appid": 620,
@@ -48,8 +48,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 1999,
-        "formatted": "$19.99"
+        "final_minor_units": 299,
+        "formatted": "$2.99"
       }
     },
     {
@@ -122,8 +122,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 5999,
-        "formatted": "$59.99"
+        "final_minor_units": 899,
+        "formatted": "$8.99"
       }
     },
     {
@@ -410,8 +410,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 5999,
-        "formatted": "$59.99"
+        "final_minor_units": 1499,
+        "formatted": "$14.99"
       }
     },
     {
@@ -458,8 +458,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 6999,
-        "formatted": "$69.99"
+        "final_minor_units": 1399,
+        "formatted": "$13.99"
       }
     },
     {
@@ -519,6 +519,22 @@
         "purchasable": false
       },
       "date_added": "2026-02-01T02:48:14Z"
+    },
+    {
+      "appid": 3751950,
+      "title": "Assassin's Creed Black Flag Resynced",
+      "url": "https://store.steampowered.com/app/3751950/",
+      "availability": {
+        "coming_soon": false,
+        "purchasable": true
+      },
+      "date_added": "2026-11-18T13:07:48Z",
+      "price": {
+        "currency": "USD",
+        "country": "US",
+        "final_minor_units": 5999,
+        "formatted": "$59.99"
+      }
     },
     {
       "appid": 5335510,
