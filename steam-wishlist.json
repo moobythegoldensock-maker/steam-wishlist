@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-19T12:29:17Z",
+  "updated_at": "2026-11-20T12:23:02Z",
   "steam_id": "76561198025751792",
   "game_count": 35,
   "games": [
@@ -202,8 +202,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 4999,
-        "formatted": "$49.99"
+        "final_minor_units": 2499,
+        "formatted": "$24.99"
       }
     },
     {
@@ -234,8 +234,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 1999,
-        "formatted": "$19.99"
+        "final_minor_units": 299,
+        "formatted": "$2.99"
       }
     },
     {
@@ -266,8 +266,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 3999,
-        "formatted": "$39.99"
+        "final_minor_units": 1319,
+        "formatted": "$13.19"
       }
     },
     {
@@ -282,8 +282,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 6999,
-        "formatted": "$69.99"
+        "final_minor_units": 4999,
+        "formatted": "$49.99"
       }
     },
     {
@@ -298,8 +298,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 4999,
-        "formatted": "$49.99"
+        "final_minor_units": 1999,
+        "formatted": "$19.99"
       }
     },
     {
@@ -314,8 +314,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 5999,
-        "formatted": "$59.99"
+        "final_minor_units": 1979,
+        "formatted": "$19.79"
       }
     },
     {
@@ -394,8 +394,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 5999,
-        "formatted": "$59.99"
+        "final_minor_units": 2399,
+        "formatted": "$23.99"
       }
     },
     {
