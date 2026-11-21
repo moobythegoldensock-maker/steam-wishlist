@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T12:23:02Z",
+  "updated_at": "2026-11-21T12:07:15Z",
   "steam_id": "76561198025751792",
-  "game_count": 35,
+  "game_count": 32,
   "games": [
     {
       "appid": 620,
@@ -34,22 +34,6 @@
         "country": "US",
         "final_minor_units": 1999,
         "formatted": "$19.99"
-      }
-    },
-    {
-      "appid": 307690,
-      "title": "Sleeping Dogs: Definitive Edition",
-      "url": "https://store.steampowered.com/app/307690/",
-      "availability": {
-        "coming_soon": false,
-        "purchasable": true
-      },
-      "date_added": "2026-11-16T01:06:28Z",
-      "price": {
-        "currency": "USD",
-        "country": "US",
-        "final_minor_units": 299,
-        "formatted": "$2.99"
       }
     },
     {
@@ -186,8 +170,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 3999,
-        "formatted": "$39.99"
+        "final_minor_units": 1599,
+        "formatted": "$15.99"
       }
     },
     {
@@ -367,22 +351,6 @@
       }
     },
     {
-      "appid": 1812090,
-      "title": "Escape Academy",
-      "url": "https://store.steampowered.com/app/1812090/",
-      "availability": {
-        "coming_soon": false,
-        "purchasable": true
-      },
-      "date_added": "2026-11-16T01:11:22Z",
-      "price": {
-        "currency": "USD",
-        "country": "US",
-        "final_minor_units": 299,
-        "formatted": "$2.99"
-      }
-    },
-    {
       "appid": 1817070,
       "title": "Marvel’s Spider-Man Remastered",
       "url": "https://store.steampowered.com/app/1817070/",
@@ -399,22 +367,6 @@
       }
     },
     {
-      "appid": 2369390,
-      "title": "Far Cry® 6",
-      "url": "https://store.steampowered.com/app/2369390/",
-      "availability": {
-        "coming_soon": false,
-        "purchasable": true
-      },
-      "date_added": "2026-11-16T00:44:39Z",
-      "price": {
-        "currency": "USD",
-        "country": "US",
-        "final_minor_units": 1499,
-        "formatted": "$14.99"
-      }
-    },
-    {
       "appid": 2661300,
       "title": "Grounded 2",
       "url": "https://store.steampowered.com/app/2661300/",
@@ -426,8 +378,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 2999,
-        "formatted": "$29.99"
+        "final_minor_units": 2399,
+        "formatted": "$23.99"
       }
     },
     {
