@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-22T12:12:18Z",
+  "updated_at": "2026-11-24T12:08:21Z",
   "steam_id": "76561198025751792",
   "game_count": 32,
   "games": [
@@ -32,8 +32,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 1999,
-        "formatted": "$19.99"
+        "final_minor_units": 199,
+        "formatted": "$1.99"
       }
     },
     {
@@ -394,8 +394,8 @@
       "price": {
         "currency": "USD",
         "country": "US",
-        "final_minor_units": 6999,
-        "formatted": "$69.99"
+        "final_minor_units": 4199,
+        "formatted": "$41.99"
       }
     },
     {
